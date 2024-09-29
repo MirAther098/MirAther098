@@ -1,8 +1,8 @@
-<h1>Peace 🍁  I'm Ather Ahmad Mir</h1>
+<h1>  I'm Ather Ahmad Mir</h1>
 
 <p>My name is <b>Ather Ahmad Mir</b>, and I'm a Full Stack Developer with a rich freelance experience. I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miraafaq&label=Profile%20views&color=0e75b6&style=flat" alt="miraafaq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirather098&label=Profile%20views&color=0e75b6&style=flat" alt="miraafaq" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
